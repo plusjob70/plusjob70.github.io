@@ -1,6 +1,1 @@
-# Welcome to junho's BLOG
-## test
-
-* test
-* test
-* test
+# Welcome to My BLOG
