@@ -1,4 +1,4 @@
-# Welcome to My BLOG!
+# Welcome to My BLOG!!
 
 * Name : Lee junho
 * Major : computer science
