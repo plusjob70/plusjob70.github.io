@@ -1,0 +1,29 @@
+#top{
+	margin-left: 10px;
+	margin-right: 10px;
+	width: auto;
+	height: 55px;
+	background-color: #90EE90
+}
+
+#middle{
+	margin-left: 10px;
+	margin-right: 10px;
+	width: auto;
+	height: 690px;
+	background-color: #4682B4
+
+}
+
+#bottom{
+	margin-left: 10px;
+	margin-right: 10px;
+	width: auto;
+	height: 135px;
+	background-color: #DDA0DD
+}
+
+
+#bottom :first-child{
+	font-weight: bold;
+}
